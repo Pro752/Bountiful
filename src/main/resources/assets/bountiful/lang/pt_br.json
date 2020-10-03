@@ -1,0 +1,75 @@
+{
+
+	"block.bountiful.bountyboard": "Quadro de Recompensas",
+
+	"itemGroup.bountiful": "Bountiful",
+
+	"bountiful.decree": "Decreto",
+	"bountiful.decrees": "Decretos",
+	"bountiful.decree.invalid": "Decreto inválido",
+	"bountiful.decree.notset": "Traga isso para um quadro de recompensas!",
+
+	"bountiful.bounty.turnin": "Cumpra sua missão clicando com o botão direito em um quadro de avisos.",
+
+	"bountiful.advancement.bounty_taken.title": "Serviço contratado",
+	"bountiful.advancement.bounty_taken.desc": "Pegue uma missão em um quadro de avisos",
+
+	"bountiful.advancement.bounty_complete.title": "Pagamento honesto por trabalho honesto",
+	"bountiful.advancement.bounty_complete.desc": "Complete uma missão!",
+
+	"bountiful.advancement.rush_order.title": "Entrega rápida",
+	"bountiful.advancement.rush_order.desc": "Complete uma missão em menos de um minuto",
+
+	"bountiful.advancement.procrastinator.title": "Mestre Procrastinador",
+	"bountiful.advancement.procrastinator.desc": "Complete uma missão com menos de 5 segundos restantes",
+
+	"bountiful.advancement.town_crier.title": "Leiloeiro da Cidade",
+	"bountiful.advancement.town_crier.desc": "Obtenha um decreto!",
+
+	"bountiful.advancement.royal_mandate.title": "Mandato Real",
+	"bountiful.advancement.royal_mandate.desc": "Coloque um decreto no quadro de avisos",
+
+	"bountiful.bounty": "Missão",
+
+	"bountiful.decree.armorer.name": "Ferreiro(a) de armaduras",
+	"bountiful.decree.butcher.name": "Açougueiro(a)",
+	"bountiful.decree.chef.name": "Suprimentos do Chef",
+	"bountiful.decree.cleric.name": "Suprimentos do Clérigo",
+	"bountiful.decree.farmer.name": "Fazendeiro(a)",
+	"bountiful.decree.fisherman.name": "Pescador(a)",
+	"bountiful.decree.fletcher.name": "Flecheiro(a)",
+	"bountiful.decree.hunting.name": "Caçador(a) de Mobs",
+	"bountiful.decree.leatherer.name": "Coureiro(a)",
+	"bountiful.decree.librarian.name": "Bibliotecário(a)",
+	"bountiful.decree.mapper.name": "Cartógrafo(a)",
+	"bountiful.decree.mason.name": "Pedreiro",
+	"bountiful.decree.shepherd.name": "Shepherding",
+	"bountiful.decree.tinker.name": "Funileiro",
+	"bountiful.decree.toolsmith.name": "Ferrareiro(a)",
+	"bountiful.decree.invalid_decree.name": "Decreto inválido",
+
+	"bountiful.bounty.type.entity.kills": "Mortos",
+
+	"bountiful.bounty.type.experience.levels": "Níveis de experiência",
+	"bountiful.bounty.type.experience.points": "Pontos de experiência",
+
+
+	"bountiful.rarity.Common": "Comum",
+	"bountiful.rarity.Uncommon": "Incomum",
+	"bountiful.rarity.Rare": "Raro",
+	"bountiful.rarity.Epic": "Épico",
+
+	"stat.bountiful.bounties_taken": "Missões adquiquiridas",
+	"stat.bountiful.bounties_done": "Missões cumpridas (Total)",
+	"stat.bountiful.bounties_done_0": "Missões cumpridas (Comum)",
+	"stat.bountiful.bounties_done_1": "Missões cumpridas (Incomum)",
+	"stat.bountiful.bounties_done_2": "Missões cumpridas (Raro)",
+	"stat.bountiful.bounties_done_3": "Missões cumpridas (Épico)",
+
+	"bountiful.tooltip.advanced": "Segure Shift para mais detalhes",
+	"bountiful.tooltip.time": "Tempo para completar",
+	"bountiful.tooltip.required": "Requer",
+	"bountiful.tooltip.rewards": "Recompensas",
+	"bountiful.tooltip.expired": "Expiredo",
+	"bountiful.tooltip.requirements": "Requisitos não atendidos."
+}
